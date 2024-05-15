@@ -1,6 +1,6 @@
 ---
 title: "STA4813 Assignment 1"
-author: "Neo Deane 66931185"
+author: "Neo Deane"
 date: "`r Sys.Date()`"
 output:
   word_document: default
